@@ -1,6 +1,6 @@
 ---
 title: Practical Selection Guide for TDA Methods
-source: Analysis as of June 2026
+source: Analysis as of October 2026
 ---
 
 ## Practical Selection Guide
@@ -10,3 +10,6 @@ source: Analysis as of June 2026
  | **Large-scale, open-source LLM** | **[AirRep](https://arxiv.org/abs/2505.18513)** | Fastest inference, no gradient/parameter access needed | [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/119133) |
  | **Activation access available** | **[STRIDE](https://arxiv.org/abs/2606.05165)** | Highest accuracy, but not pure black-box | [arXiv](https://arxiv.org/abs/2606.05165) |
  | **LoRA-tuned models** | **[DataInf](https://proceedings.iclr.cc/paper_files/paper/2025/file/804dbf8d3b8eee1ef875c6857efc64eb-Paper-Conference.pdf)** | Optimized for LoRA parameter access | [ICLR 2025](https://proceedings.iclr.cc/paper_files/paper/2025/file/804dbf8d3b8eee1ef875c6857efc64eb-Paper-Conference.pdf) |
+ | **Large-scale models (70B parameters)** | **[LoRIF](https://arxiv.org/abs/2601.21929)** | Scalable gradient-based attribution with low-rank approximations | [arXiv](https://arxiv.org/abs/2601.21929) |
+ | **Single-pass attribution** | **[Traceprop](https://arxiv.org/abs/2609.32380)** | Records gradients during training with minimal overhead | [arXiv](https://arxiv.org/abs/2609.32380) |
+ | **Mechanistic interpretability** | **[MDA](https://arxiv.org/abs/2601.21996)** | Traces interpretable units to training data | [arXiv](https://arxiv.org/abs/2601.21996) |
