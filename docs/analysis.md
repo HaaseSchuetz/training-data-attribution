@@ -59,7 +59,7 @@ Training Data Attribution (TDA) aims to identify which training examples most in
 
 ---
 
-## \ud83c\udfaf Practical Selection Guide
+## Practical Selection Guide
 
 | Scenario | Recommended Method | Rationale | Links |
 |----------|-------------------|-----------|-------|
