@@ -32,7 +32,7 @@ Training Data Attribution (TDA) aims to identify which training examples most in
 
 ---
 
-## \ud83d\udcca Comparative Analysis
+## Comparative Analysis
 
 ### Pure Black-Box Methods (API-Only)
 | Method | Year | Mechanism | Scalability | Accuracy | Use Case | Links |
