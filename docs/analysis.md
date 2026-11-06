@@ -147,7 +147,7 @@ Training Data Attribution (TDA) aims to identify which training examples most in
 
 ---
 
-## \ud83d\udcda References
+## References
 
 ### Pure Black-Box Methods
 - **Daunce**: Pan, X., Ye, C., Melkonian, J., Ma, J. W., & Zhang, T. (2025). *Daunce: Data Attribution through Uncertainty Estimation*. [arXiv:2505.23223](https://arxiv.org/abs/2505.23223). ICML 2025.
