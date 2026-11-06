@@ -71,7 +71,7 @@ Training Data Attribution (TDA) aims to identify which training examples most in
 
 ---
 
-## \ud83d\udd0d Critical Gaps & Limitations
+## Critical Gaps & Limitations
 
 | Gap/Limitation | Description | Impact | Reference |
 |----------------|-------------|--------|-----------|
