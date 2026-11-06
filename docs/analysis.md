@@ -107,7 +107,7 @@ Training Data Attribution (TDA) aims to identify which training examples most in
 
 ---
 
-## \ud83d\ude80 Recommendations
+## Recommendations
 
 ### For Practitioners
 1. **Proprietary LLMs (e.g., OpenAI, Anthropic)**:
