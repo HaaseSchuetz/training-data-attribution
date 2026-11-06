@@ -84,7 +84,7 @@ Training Data Attribution (TDA) aims to identify which training examples most in
 
 ---
 
-## \ud83d\udcc8 State of the Field (October 2026)
+## State of the Field (October 2026)
 
 ### Pure Black-Box
 - **Daunce** and **AirRep** are the **only two production-ready options** for proprietary LLMs.
