@@ -131,7 +131,7 @@ Training Data Attribution (TDA) aims to identify which training examples most in
 
 ---
 
-## \ud83c\udfa5 Conference Talks & Videos
+## Conference Talks & Videos
 
 | Method/Paper | Conference | Video/Slides Link | Notes |
 |-------------|------------|-------------------|-------|
