@@ -18,7 +18,7 @@ Training Data Attribution (TDA) aims to identify which training examples most in
 
 ---
 
-## \ud83c\udfaf Recent Additions (July-October 2026)
+## Recent Additions (July-October 2026)
 
 ### New Impactful Papers
 | Paper | Date | Access Level | Key Contribution | Impact |
