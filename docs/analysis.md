@@ -12,7 +12,7 @@ version: 1.0
 
 ---
 
-## \ud83c\udfaf Executive Summary
+## Executive Summary
 
 Training Data Attribution (TDA) aims to identify which training examples most influence a model's predictions. For **proprietary LLMs** (e.g., OpenAI GPT, Anthropic) where only API access is available, **pure black-box methods** are required. As of October 2026, **only two methods**\u2014**[Daunce](https://arxiv.org/abs/2505.23223)** and **[AirRep](https://arxiv.org/abs/2505.18513)**\u2014are explicitly validated for pure black-box settings. For models with **activation access**, **[STRIDE](https://arxiv.org/abs/2606.05165)** (ICML 2026) is the most recent and highest-performing method. For **large-scale models (70B parameters)**, **[LoRIF](https://arxiv.org/abs/2601.21929)** enables scalable gradient-based attribution.
 
